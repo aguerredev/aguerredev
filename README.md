@@ -6,5 +6,6 @@ I am open to work with any stack that is needed, but my expertise is oriented to
 Other things I work or have worked with in the near past: Helm, Kafka, RabbitMQ, GCP Pub/Sub, Jenkins.  
 I have also worked with these technologies, for a short time or far away in time: JS/JQuery, HTML, CSS, React Native, Soap, Golang, Groovy.
 
-I thrive in teams with a devops mindset - we build it, we run it- and adapt Agile methodologies pragmatically, focusing on what truly adds value rather than blindly following guidelines.
+I thrive in teams with a devops/gitops mindset - we build it, we run it- and adapt Agile methodologies pragmatically, focusing on what truly adds value rather than blindly following guidelines.
 
+I'm driven by challenges and opportunities to learn from others. Work feels meaningful to me when I can wake up each morning excited about what I'll do, what I'll learn, what I'll discover, and what I can achieve that day.
